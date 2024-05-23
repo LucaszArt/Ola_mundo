@@ -1,2 +1,2 @@
 # Olá, Mundo!
- Segundo Repositorio do curso de git e github do professor Gustvo Guanabara
+ Primeiro repositorio do curso de Git e Github do professor Gustavo Guanabara
